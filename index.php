@@ -81,7 +81,7 @@ const ARCHIVARIX_REDIRECT_MISSING_HTML = '/';
  */
 const ARCHIVARIX_INCLUDE_CUSTOM = array(
   [
-    'FILE'      => '', // place a file to .content.xxxxxxxx/includes/ directory and enter its filename here
+    'FILE'      => 'a.content.VOcxAFDK', // place a file to .content.xxxxxxxx/includes/ directory and enter its filename here
     'KEYPHRASE' => '', // an entry to look for
     'LIMIT'     => 1, // how many matches to replace; -1 for unlimited
     'REGEX'     => 0, // 1 to enable perl regex (important: escape ~ symbol); 0 - disabled
