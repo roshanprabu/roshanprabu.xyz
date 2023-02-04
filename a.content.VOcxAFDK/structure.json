@@ -1,0 +1,42 @@
+{
+  "urls": {
+    "1": {
+      "url": "https://roshanprabu.carrd.co/",
+      "folder": "html",
+      "filename": "00a6ad43baa9d6bc4c6bb1120df6b275d28ba8e2.00000001.html",
+      "filetime": "20230204151052",
+      "filesize": "45814",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://roshanprabu.carrd.co/"
+    }
+  }
+}
+{
+  "urls": {
+    "2": {
+      "url": "https://roshanprabu.carrd.co/assets/images/bg.svg?v=1edc3b47",
+      "folder": "html",
+      "filename": "1a59fea3032bc4acacb30574293e38f91aa14de5.00000002.svg",
+      "filetime": "20220212075745",
+      "filesize": "870",
+      "mimetype": "image/svg+xml",
+      "charset": "",
+      "url_original": "http://roshanprabu.carrd.co/assets/images/bg.svg?v=1edc3b47"
+    }
+  }
+}
+{
+  "urls": {
+    "3": {
+      "url": "https://roshanprabu.carrd.co/robots.txt",
+      "folder": "html",
+      "filename": "20d5d9073456f43879a6ad6bcf252687d81b263e.00000003.txt",
+      "filetime": "20230204151053",
+      "filesize": "73",
+      "mimetype": "text/plain",
+      "charset": "",
+      "url_original": "http://roshanprabu.carrd.co/robots.txt"
+    }
+  }
+}
